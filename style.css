@@ -1,0 +1,20 @@
+body{
+	min-height: 100vh;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	background: url('img.jpg')center/cover no-repeat;
+}
+
+#clock{
+	font-family: 'Stylish', sans-serif;
+	font-size: 5rem;
+	color: #6dd5ed;
+}
+
+.footer{
+	position: fixed;
+	bottom: 0;
+	color: white;
+	font-family: 'Stylish', sans-serif;
+}
